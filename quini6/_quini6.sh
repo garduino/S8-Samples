@@ -1,0 +1,1 @@
+../s8vm --expose-gc --shell console.snapshot.js
